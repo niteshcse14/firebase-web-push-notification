@@ -3,7 +3,8 @@ install all packages from <b>package.json</b>
 
 ```npm install```
 
-index.js file
+create one file with name <b>app.js</b>. Then paste this code.
+
 ```js
 require('dotenv')
 var express = require('express');
