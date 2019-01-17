@@ -1,4 +1,4 @@
-##Firebase Web Push Notification
+# Firebase Web Push Notification
 install all packages from <b>package.json</b> file
 
 ```npm install```
