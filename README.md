@@ -1,5 +1,5 @@
 # Firebase Web Push Notification
-install all packages from <b>package.json</b> file
+install all packages from <b>package.json</b>
 
 ```npm install```
 
