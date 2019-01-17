@@ -1,0 +1,17 @@
+{
+  "name": "pushnotificationweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nitesh Meena <nitesh.cse14@nituk.ac.in>",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "firebase": "^5.7.3",
+    "fs": "0.0.1-security"
+  }
+}
